@@ -1,0 +1,25 @@
+The means of instructing computers what to do	What is Programming Languages?	Languages	10
+The language was designed at IBM for scientific computing. 	What is FORTRAN?	Languages	20
+Was used as a teaching tool, such as a debugger and editing system and support for common early microprocessor machines.	What is PASCAL?	Languages	30
+An image with a coke can labled Legend and a gallon of milk.	What is Legendary?	Languages	40
+The programs themselves are written as a set of lists	What is LISP?	Languages	50
+Technique stated that the actual computer hardware should be simple and not need to be hand-wired for each program	What is the shared-program technique?	Techniques	10
+This programming method where objects are pieces of data that can be packaged and manipulated by the programmer.	What is OOP?	Techniques	20
+In PASCAL, this statement allows instructions to branch like a tree.	What is a CASE STATEMENT?	Techniques	30
+An image of a doctor with a red pepper on his head	What is Doctor Pepper?	Techniques	40
+C was built to be fast and powerful at the expense of being hard to read.  This is the technique refers to referencing and is used extensively.	What are pointers?	Techniques	50
+The year ENIAC was built	What is 1942?	Years	10
+John Von Neumann was working at the Institute for Advanced Study	What is 1945?	Years	20
+This is the year a set of extensions developed into the full-featured language C++	What is 1983?	Years	30
+An image of a hand with a bunch of the thyme leaves on it.	What is “Thyme on his Hands”	Years	40
+This is the year that C was developed by Dennis Ritchie while working at Bell Labs in New Jersey.	What is 1972?	Years	50
+He built the difference engine in 1822.	Who is Charles Babbage?	Famous People	10
+He developed two important concepts affecting the path of computer programming languages.	Who is John Von Neumann?	Famous People	20
+These two developed the BASIC language in 1964.	Who is John Kemeny and Thomas Kurtz?	Famous People	30
+An image with a wreath, wizards made out of spoons.	Who is Reese Witherspoon?	Famous People	40
+Begun Pascal in 1968.	Who is Niklaus Wirth?	Famous People	50
+Parts of the computer that you can physically touch	What is Hardware?	General	10
+The network of networks.	What is the internet?	General	20
+Contains the ALU and Control Unit.	What is CPU?	General	30
+An image of a hand holding a ball printed with the world.	What is Whole World in your Hands?	General	40
+A part of the computer memory that gets erased.	What is RAM?	General	50
